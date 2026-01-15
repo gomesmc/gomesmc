@@ -29,7 +29,7 @@ that make a difference in people's lives, through clean and reusable code.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="36" title="Apache Struts"/>
 
   <!-- Cloud & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="36" title="AWS"/>
+  <img src="https://cdn.simpleicons.org/amazonaws" width="36" title="AWS"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" title="GitHub"/>
 </p>
