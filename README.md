@@ -1,6 +1,6 @@
 ## Maria Clara Gomes
 
-| **Software Developer** |
+**Software Developer**
 
 I am a software developer, curious to learn and with a constant desire to evolve. 
 I see technology as an opportunity to transform realities and solve problems.
