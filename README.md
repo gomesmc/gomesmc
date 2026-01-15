@@ -9,7 +9,7 @@ that make a difference in people's lives, through clean and reusable code.
 
 ---
 
-> **🧰 Languages and Tools**
+**🧰 Languages and Tools**
 
 <p align="left">
   <!-- Languages -->
