@@ -1,13 +1,13 @@
 ## Maria Clara Gomes
 
-> **Software Developer**
+>**Software Developer**
 
 I am a software developer, curious to learn and with a constant desire to evolve. 
 I see technology as an opportunity to transform realities and solve problems.
 My goal is to apply the knowledge acquired in college and contribute to projects 
 that make a difference in people's lives, through clean and reusable code.
 
-> **🧰 Languages and Tools**
+**🧰 Languages and Tools**
 
 <p align="left">
   <!-- Languages -->
