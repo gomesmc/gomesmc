@@ -26,5 +26,4 @@ that make a difference in people's lives, through clean and reusable code.
 
   <!-- Cloud & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" title="GitHub" style="margin-right:12px; margin-bottom:12px;" />
-  <img src="https://cdn.simpleicons.org/amazonaws" width="36" title="AWS" style="margin-right:12px; margin-bottom:12px;" />
 </p>
