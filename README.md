@@ -1,6 +1,6 @@
 ## Maria Clara Gomes
 
-**Software Developer**
+**Data Professional**
 
 I'm a data professional, curious to learn and constantly seeking to improve.
 I see data and technology as opportunities to transform information into meaningful insights and solve real-world problems.
