@@ -8,14 +8,16 @@ My goal is to apply the knowledge acquired through my studies and contribute to 
 
 ---
 
-**🧰 Languages and Tools**
+**🧰 Data Tools & Technologies**
 
 <p align="left">
   <!-- Data & Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python" style="margin-right:12px; margin-bottom:12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" title="SQL" style="margin-right:12px; margin-bottom:12px;" />
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="36" title="Google BigQuery" style="margin-right:12px; margin-bottom:12px;" />
 
-  <!-- Version Control & Tools -->
+  <!-- Tools -->
+  <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="36" title="DBeaver" style="margin-right:12px; margin-bottom:12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git" style="margin-right:12px; margin-bottom:12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" title="GitHub" style="margin-right:12px; margin-bottom:12px;" />
 </p>
