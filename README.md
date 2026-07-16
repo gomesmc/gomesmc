@@ -2,27 +2,20 @@
 
 **Software Developer**
 
-I am a software developer, curious to learn and with a constant desire to evolve. 
-I see technology as an opportunity to transform realities and solve problems.
-My goal is to apply the knowledge acquired in college and contribute to projects 
-that make a difference in people's lives, through clean and reusable code.
+I'm a data professional, curious to learn and constantly seeking to improve.
+I see data and technology as opportunities to transform information into meaningful insights and solve real-world problems.
+My goal is to apply the knowledge acquired through my studies and contribute to projects that create value through data analysis, automation, and data-driven solutions.
 
 ---
 
 **🧰 Languages and Tools**
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" title="Java" style="margin-right:12px; margin-bottom:12px;" />
+  <!-- Data & Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python" style="margin-right:12px; margin-bottom:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" title="JavaScript" style="margin-right:12px; margin-bottom:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" title="HTML" style="margin-right:12px; margin-bottom:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" title="CSS" style="margin-right:12px; margin-bottom:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" title="SQL" style="margin-right:12px; margin-bottom:12px;" />
 
-  <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" title="Spring Boot" style="margin-right:12px; margin-bottom:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="36" title="Apache Struts" style="margin-right:12px; margin-bottom:12px;" />
-
-  <!-- Cloud & Tools -->
+  <!-- Version Control & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git" style="margin-right:12px; margin-bottom:12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" title="GitHub" style="margin-right:12px; margin-bottom:12px;" />
 </p>
