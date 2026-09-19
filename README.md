@@ -1,30 +1,62 @@
-## Maria Clara Gomes
+# Maria Clara Gomes
 
-**Data Professional**
+**Data Analyst** · Python · SQL · Power BI · BigQuery · Tableau · Rio de Janeiro, Brazil
 
-I'm a data professional, curious to learn and constantly seeking to improve.
-I see data and technology as opportunities to transform information into meaningful insights and solve real-world problems.
-My goal is to apply the knowledge acquired through my studies and contribute to projects that create value through data analysis, automation, and data-driven solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-clara-gomes-0b427b180)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:gclara_@hotmail.com)
 
 ---
 
-**🧰 Data Tools & Technologies**
+Tech professional transitioning into Data. Background in backend development (Java, REST APIs) with growing expertise in analytics, dashboards, and data pipelines. Currently deepening data science skills at Alura (67 courses · 590h in progress). Certified in **Google Data Analytics** and **SQL (FGV)**.
 
-<p align="left">
+---
 
-  <!-- Data & Analytics -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python" style="margin-right:12px; margin-bottom:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" title="SQL" style="margin-right:12px; margin-bottom:12px;" />
-  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="36" title="Google BigQuery" style="margin-right:12px; margin-bottom:12px;" />
+## Tech Stack
 
-  <!-- Data Visualization & Productivity Tools -->
-  <img src="https://cdn.simpleicons.org/powerbi" width="36" title="Power BI" style="margin-right:12px; margin-bottom:12px;" />
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="36" title="Microsoft Excel" style="margin-right:12px; margin-bottom:12px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" width="36" title="Google Sheets" style="margin-right:12px; margin-bottom:12px;" />
+**Data & Analytics**
 
-  <!-- Database & Version Control Tools -->
-  <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="36" title="DBeaver" style="margin-right:12px; margin-bottom:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git" style="margin-right:12px; margin-bottom:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" title="GitHub" style="margin-right:12px; margin-bottom:12px;" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-</p>
+**Dev & Tools**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## Projects
+
+**🌊 Surf-Weather** — Python app consuming the OpenWeatherMap REST API to evaluate surf conditions in real time (temperature, wind, visibility, cloud cover).
+`Python` · `REST API` · `OpenWeatherMap`
+
+**🖥️ System Help** — CLI tool in Python providing interactive documentation for functions and libraries via `help()`, with colored and structured terminal output.
+`Python` · `CLI` · `UX`
+
+---
+
+## Education & Certifications
+
+| | |
+|:--|:--|
+| Systems Analysis & Development | PUCRS · 2024–2027 |
+| Data Science Career Track | Alura · 67 courses · 590h *(in progress)* |
+| Journalism | IBMEC · 2018–2021 |
+
+- ✅ Google Data Analytics Certificate — Google (Jul 2026)
+- ✅ SQL — Structured Query Language — FGV (Jul 2026)
+- ✅ Excel for Data Analysis — Preditiva Analytics (Jul 2026)
+- ✅ Introduction to Git & GitHub — FGV (Jul 2026)
+- ✅ Microsoft Power BI — Udemy (Sep 2025)
+
+
+---
+
+**Languages:** English (Advanced) · French (Intermediate) · Portuguese (Native)
