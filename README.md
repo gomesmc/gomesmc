@@ -7,7 +7,7 @@
 
 ---
 
-Tech professional transitioning into Data. Background in backend development (Java, REST APIs) with growing expertise in analytics, dashboards, and data pipelines. Currently deepening data science skills at Alura (67 courses · 590h in progress). Certified in **Google Data Analytics** and **SQL (FGV)**.
+Tech professional transitioning into Data. Background in backend development (Java, REST APIs) with growing expertise in analytics, dashboards, and data pipelines. Currently deepening data science skills at Alura. Certified in **Google Data Analytics** and **SQL (FGV)**.
 
 ---
 
@@ -47,7 +47,7 @@ Tech professional transitioning into Data. Background in backend development (Ja
 | | |
 |:--|:--|
 | Systems Analysis & Development | PUCRS · 2024–2027 |
-| Data Science Career Track | Alura · 67 courses · 590h *(in progress)* |
+| Data Science Career Track | Alura · *(in progress)* |
 | Journalism | IBMEC · 2018–2021 |
 
 - ✅ Google Data Analytics Certificate — Google (Jul 2026)
